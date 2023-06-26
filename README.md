@@ -2,9 +2,9 @@
 
 ## Resources
 
-Online Editor: https://chuck.stanford.edu/ide/
-Docs: https://chuck.stanford.edu/doc/
-Api References: https://chuck.stanford.edu/doc/reference/
+- Online Editor: https://chuck.stanford.edu/ide/
+- Docs: https://chuck.stanford.edu/doc/
+- Api References: https://chuck.stanford.edu/doc/reference/
 
 ## Outline
 
