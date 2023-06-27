@@ -8,8 +8,11 @@
 
 ## Outline
 
+- Intros
 - About ChucK
+- Why I like it
 - Overview of ChucK basics
 - Music and systems
+- Laptop Orchestras
 - Making music exercise
 - Workshop the music!
