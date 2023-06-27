@@ -10,5 +10,6 @@
 
 - About ChucK
 - Overview of ChucK basics
-- Making our own music!
-- Sharing session
+- Music and systems
+- Making music exercise
+- Workshop the music!
